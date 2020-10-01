@@ -15,4 +15,4 @@ que no caso eu utilizei o Mongo instalado localmente.
 5. Depois de tudo instalado, entramos via terminal e iniciamos o **app.js**
 	* ``` node app.js ```
 	
-**THAT'S ALL!!!**
+**THAT'S ALL FOLKS!!!**
