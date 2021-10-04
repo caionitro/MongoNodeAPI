@@ -1,6 +1,7 @@
 var Dog = require('../model/dog'); 
 
 module.exports = {
+	
 	create : function(req,res){
 		var dogzin = new Dog(req.body);
 
@@ -49,4 +50,5 @@ module.exports = {
 			res.json(data);
 		}).exec();
 	}
+	
 };
